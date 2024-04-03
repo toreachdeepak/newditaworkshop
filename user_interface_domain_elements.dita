@@ -11,7 +11,8 @@
         </critdates>
     </prolog>
     <conbody>
-        <p>The elements in the user interface domain each have a specific semantic purpose.</p>
+        <p>The elements in the user interface domain each have a specific semantic purpose.<note
+                id="note_wht_rz4_y1c" type="important">Important Note</note></p>
         <dl id="dl_vnk_5vm_x1c">
             <dlentry>
                 <dt>uicontrol</dt>
