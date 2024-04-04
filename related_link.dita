@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="related_link">
+    <title>Related Links </title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>This topic provides related link example.</p>
+    </conbody>
+    <related-links>
+        <link href="../Week-16-Mar-17-Mar/Practice-Set-2/Assignment2/introduction.dita"/>
+        <link href="dir_Reference.dita"/>
+    </related-links>
+</concept>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="pencil_types">
+    <title>Pencil Types</title>
+    <prolog>
+        <author type="contributor">Deepak Bhatia</author>
+        <critdates>
+            <!--Deepak Bhatia-->
+            <revised modified="2024-03-29"/>
+        </critdates>
+    </prolog>
+    <refbody>
+        <section conaction="mark"
+            conref="dir_Reference.dita#reference_qy2_km3_s1c/section_fqc_jtj_s1c"
+            id="section_osh_jzd_x1c"/>
+        <section conaction="mark"
+            conref="dir_Reference.dita#reference_qy2_km3_s1c/section_ht5_gsj_s1c"
+            id="section_fjb_wq2_x1c"/>
+        <section id="section_a4m_cv5_w1c" conaction="pushafter">
+            <p>The following is an example of definition list.</p>
+            <p>The following types of pencils are available<dl id="dl_pvx_pv5_w1c">
+                    <dlentry>
+                        <dt>Graphite</dt>
+                        <dd>Graphite pencils are the most common type of pencils and are encased in
+                            wood</dd>
+                        <dd>
+                            <dl id="dl_f3q_lwv_w1c">
+                                <dlentry>
+                                    <dt>Graphite AA Pencil</dt>
+                                    <dd>The graphite AA pencil is a type of Graphite Pencil whose
+                                        color is dark black.</dd>
+                                </dlentry>
+                                <dlentry>
+                                    <dt>Graphite AB Pencil</dt>
+                                    <dd>The graphite AB pencil is a type of Graphite Pencil whose
+                                        color is dark grey.</dd>
+                                </dlentry>
+                            </dl>
+                        </dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt>Carbon</dt>
+                        <dd>Carbon Pencils are generally made of mixture of clay and lamp
+                                black.<note id="note_yfq_zx5_w1c" type="note">This is an important
+                                note.</note></dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt>Colored</dt>
+                        <dd>Colored pencils have wax-like cores of pigment and other fillers.</dd>
+                    </dlentry>
+                </dl></p>
+        </section>
+    </refbody>
+</reference>
